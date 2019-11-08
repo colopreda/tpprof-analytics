@@ -1,0 +1,27 @@
+{
+  "stacked-filters": {
+    "data": [
+      {
+        "category": "fatal",
+        "values": {
+          "value": "{ \"Loss of control\" : 0.298270, \"Failed to look properly\" : 0.274740, \"Careless or in a hurry\" : 0.197920, \"Exceeding speed limit\" : 0.150170, \"Poor turn or manoeuvre\" : 0.131490, \"Travelling too fast\" : 0.091350, \"Aggressive driving\" : 0.069200, \"Swerved\" : 0.055360, \"Slippery road\" : 0.044000, \"Fatigue\" : 0.042210, \"Road layout\" : 0.033910, \"Driver using mobile phone\" : 0.022150, \"Dazzling sun\" : 0.019380, \"Sudden braking\" : 0.018690, \"Disobeyed double white lines\" : 0.014530, \"Disobeyed priority signs\" : 0.014530, \"Junction overshoot\" : 0.013150, \"Vision affected by weather\" : 0.013150, \"Illegal turn or direction\" : 0.011070, \"Animal in carriageway\" : 0.008300, \"Poor road surface\" : 0.008300, \"Disobeyed pedestrian\" : 0.005540 }",
+          "type": "json"
+        }
+      },
+      {
+        "category": "serious",
+        "values": {
+          "value": "{ \"Failed to look properly\" : 0.373160, \"Careless or in a hurry\" : 0.170600, \"Loss of control\" : 0.158540, \"Poor turn or manoeuvre\" : 0.147620, \"Travelling too fast\" : 0.075180, \"Exceeding speed limit\" : 0.070780, \"Slippery road\" : 0.064000, \"Aggressive driving\" : 0.039730, \"Sudden braking\" : 0.038020, \"Swerved\" : 0.036130, \"Road layout\" : 0.028640, \"Dazzling sun\" : 0.026470, \"Disobeyed priority signs\" : 0.024580, \"Fatigue\" : 0.020240, \"Junction overshoot\" : 0.019550, \"Vision affected by weather\" : 0.014580, \"Poor road surface\" : 0.010750, \"Animal in carriageway\" : 0.010060, \"Illegal turn or direction\" : 0.007660, \"Driver using mobile phone\" : 0.006000, \"Disobeyed pedestrian\" : 0.005830, \"Disobeyed double white lines\" : 0.003770 }",
+          "type": "json"
+        }
+      },
+      {
+        "category": "slight",
+        "values": {
+          "value": "{ \"Failed to look properly\" : 0.433440, \"Careless or in a hurry\" : 0.179140, \"Poor turn or manoeuvre\" : 0.157180, \"Loss of control\" : 0.109970, \"Slippery road\" : 0.075000, \"Sudden braking\" : 0.068490, \"Travelling too fast\" : 0.061710, \"Exceeding speed limit\" : 0.044830, \"Swerved\" : 0.033760, \"Disobeyed priority signs\" : 0.033460, \"Aggressive driving\" : 0.031000, \"Dazzling sun\" : 0.026840, \"Junction overshoot\" : 0.023710, \"Road layout\" : 0.023570, \"Fatigue\" : 0.015120, \"Vision affected by weather\" : 0.014700, \"Animal in carriageway\" : 0.008750, \"Illegal turn or direction\" : 0.006990, \"Poor road surface\" : 0.004890, \"Disobeyed pedestrian\" : 0.004650, \"Driver using mobile phone\" : 0.004190, \"Disobeyed double white lines\" : 0.001490 }",
+          "type": "json"
+        }
+      }
+    ]
+  }
+}

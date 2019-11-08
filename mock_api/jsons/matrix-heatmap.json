@@ -1,0 +1,828 @@
+{
+  "matrix-heat-map": {
+    "data": [
+      {
+        "start_area": "CA",
+        "end_area": "CA",
+        "nb_trips": 29369,
+        "avg_risk_score": 92.6700262181211481
+      },
+      {
+        "start_area": "CA",
+        "end_area": "CL",
+        "nb_trips": 58,
+        "avg_risk_score": 86.2931034482758621
+      },
+      {
+        "start_area": "CA",
+        "end_area": "DI",
+        "nb_trips": 451,
+        "avg_risk_score": 83.6496674057649667
+      },
+      {
+        "start_area": "CA",
+        "end_area": "EC",
+        "nb_trips": 73,
+        "avg_risk_score": 79.8082191780821918
+      },
+      {
+        "start_area": "CA",
+        "end_area": "ES",
+        "nb_trips": 7761,
+        "avg_risk_score": 90.0380105656487566
+      },
+      {
+        "start_area": "CA",
+        "end_area": "GR",
+        "nb_trips": 464,
+        "avg_risk_score": 91.3965517241379310
+      },
+      {
+        "start_area": "CA",
+        "end_area": "LU",
+        "nb_trips": 13974,
+        "avg_risk_score": 89.8084299413195935
+      },
+      {
+        "start_area": "CA",
+        "end_area": "ME",
+        "nb_trips": 1808,
+        "avg_risk_score": 90.2676991150442478
+      },
+      {
+        "start_area": "CA",
+        "end_area": "RE",
+        "nb_trips": 208,
+        "avg_risk_score": 87.5769230769230769
+      },
+      {
+        "start_area": "CA",
+        "end_area": "RG",
+        "nb_trips": 957,
+        "avg_risk_score": 88.9968652037617555
+      },
+      {
+        "start_area": "CA",
+        "end_area": "VI",
+        "nb_trips": 18,
+        "avg_risk_score": 96.7222222222222222
+      },
+      {
+        "start_area": "CA",
+        "end_area": "WI",
+        "nb_trips": 64,
+        "avg_risk_score": 74.8750000000000000
+      },
+      {
+        "start_area": "CL",
+        "end_area": "CA",
+        "nb_trips": 69,
+        "avg_risk_score": 86.7681159420289855
+      },
+      {
+        "start_area": "CL",
+        "end_area": "CL",
+        "nb_trips": 2850,
+        "avg_risk_score": 90.0343859649122807
+      },
+      {
+        "start_area": "CL",
+        "end_area": "DI",
+        "nb_trips": 785,
+        "avg_risk_score": 86.2229299363057325
+      },
+      {
+        "start_area": "CL",
+        "end_area": "EC",
+        "nb_trips": 54,
+        "avg_risk_score": 75.6481481481481481
+      },
+      {
+        "start_area": "CL",
+        "end_area": "ES",
+        "nb_trips": 105,
+        "avg_risk_score": 85.3619047619047619
+      },
+      {
+        "start_area": "CL",
+        "end_area": "GR",
+        "nb_trips": 15,
+        "avg_risk_score": 84.0666666666666667
+      },
+      {
+        "start_area": "CL",
+        "end_area": "LU",
+        "nb_trips": 344,
+        "avg_risk_score": 84.3343023255813953
+      },
+      {
+        "start_area": "CL",
+        "end_area": "ME",
+        "nb_trips": 362,
+        "avg_risk_score": 79.2016574585635359
+      },
+      {
+        "start_area": "CL",
+        "end_area": "RE",
+        "nb_trips": 21,
+        "avg_risk_score": 79.0000000000000000
+      },
+      {
+        "start_area": "CL",
+        "end_area": "RG",
+        "nb_trips": 400,
+        "avg_risk_score": 78.8800000000000000
+      },
+      {
+        "start_area": "CL",
+        "end_area": "VI",
+        "nb_trips": 67,
+        "avg_risk_score": 81.0298507462686567
+      },
+      {
+        "start_area": "CL",
+        "end_area": "WI",
+        "nb_trips": 309,
+        "avg_risk_score": 76.7443365695792880
+      },
+      {
+        "start_area": "DI",
+        "end_area": "CA",
+        "nb_trips": 473,
+        "avg_risk_score": 89.7632135306553911
+      },
+      {
+        "start_area": "DI",
+        "end_area": "CL",
+        "nb_trips": 835,
+        "avg_risk_score": 85.2203592814371257
+      },
+      {
+        "start_area": "DI",
+        "end_area": "DI",
+        "nb_trips": 5591,
+        "avg_risk_score": 92.2702557681988911
+      },
+      {
+        "start_area": "DI",
+        "end_area": "EC",
+        "nb_trips": 729,
+        "avg_risk_score": 85.2537722908093278
+      },
+      {
+        "start_area": "DI",
+        "end_area": "ES",
+        "nb_trips": 1014,
+        "avg_risk_score": 87.8362919132149901
+      },
+      {
+        "start_area": "DI",
+        "end_area": "GR",
+        "nb_trips": 437,
+        "avg_risk_score": 86.0503432494279176
+      },
+      {
+        "start_area": "DI",
+        "end_area": "LU",
+        "nb_trips": 1692,
+        "avg_risk_score": 89.5791962174940898
+      },
+      {
+        "start_area": "DI",
+        "end_area": "ME",
+        "nb_trips": 2907,
+        "avg_risk_score": 93.7643618851049192
+      },
+      {
+        "start_area": "DI",
+        "end_area": "RE",
+        "nb_trips": 63,
+        "avg_risk_score": 84.7301587301587302
+      },
+      {
+        "start_area": "DI",
+        "end_area": "RG",
+        "nb_trips": 974,
+        "avg_risk_score": 88.1139630390143737
+      },
+      {
+        "start_area": "DI",
+        "end_area": "VI",
+        "nb_trips": 363,
+        "avg_risk_score": 86.0275482093663912
+      },
+      {
+        "start_area": "DI",
+        "end_area": "WI",
+        "nb_trips": 459,
+        "avg_risk_score": 79.9869281045751634
+      },
+      {
+        "start_area": "EC",
+        "end_area": "CA",
+        "nb_trips": 69,
+        "avg_risk_score": 80.6811594202898551
+      },
+      {
+        "start_area": "EC",
+        "end_area": "CL",
+        "nb_trips": 32,
+        "avg_risk_score": 78.1875000000000000
+      },
+      {
+        "start_area": "EC",
+        "end_area": "DI",
+        "nb_trips": 700,
+        "avg_risk_score": 83.9542857142857143
+      },
+      {
+        "start_area": "EC",
+        "end_area": "EC",
+        "nb_trips": 2522,
+        "avg_risk_score": 91.3568596352101507
+      },
+      {
+        "start_area": "EC",
+        "end_area": "ES",
+        "nb_trips": 196,
+        "avg_risk_score": 84.5765306122448980
+      },
+      {
+        "start_area": "EC",
+        "end_area": "GR",
+        "nb_trips": 1006,
+        "avg_risk_score": 81.8359840954274354
+      },
+      {
+        "start_area": "EC",
+        "end_area": "LU",
+        "nb_trips": 1122,
+        "avg_risk_score": 81.5900178253119430
+      },
+      {
+        "start_area": "EC",
+        "end_area": "ME",
+        "nb_trips": 426,
+        "avg_risk_score": 81.4248826291079812
+      },
+      {
+        "start_area": "EC",
+        "end_area": "RE",
+        "nb_trips": 33,
+        "avg_risk_score": 81.9090909090909091
+      },
+      {
+        "start_area": "EC",
+        "end_area": "RG",
+        "nb_trips": 20,
+        "avg_risk_score": 72.1000000000000000
+      },
+      {
+        "start_area": "EC",
+        "end_area": "VI",
+        "nb_trips": 29,
+        "avg_risk_score": 73.9655172413793103
+      },
+      {
+        "start_area": "EC",
+        "end_area": "WI",
+        "nb_trips": 18,
+        "avg_risk_score": 69.5000000000000000
+      },
+      {
+        "start_area": "ES",
+        "end_area": "CA",
+        "nb_trips": 7714,
+        "avg_risk_score": 88.4223489758879959
+      },
+      {
+        "start_area": "ES",
+        "end_area": "CL",
+        "nb_trips": 106,
+        "avg_risk_score": 77.1320754716981132
+      },
+      {
+        "start_area": "ES",
+        "end_area": "DI",
+        "nb_trips": 1039,
+        "avg_risk_score": 83.2444658325312801
+      },
+      {
+        "start_area": "ES",
+        "end_area": "EC",
+        "nb_trips": 184,
+        "avg_risk_score": 74.3695652173913043
+      },
+      {
+        "start_area": "ES",
+        "end_area": "ES",
+        "nb_trips": 60133,
+        "avg_risk_score": 90.0199391349175993
+      },
+      {
+        "start_area": "ES",
+        "end_area": "GR",
+        "nb_trips": 1229,
+        "avg_risk_score": 84.8982912937347437
+      },
+      {
+        "start_area": "ES",
+        "end_area": "LU",
+        "nb_trips": 25473,
+        "avg_risk_score": 88.4898912574098065
+      },
+      {
+        "start_area": "ES",
+        "end_area": "ME",
+        "nb_trips": 720,
+        "avg_risk_score": 82.8680555555555556
+      },
+      {
+        "start_area": "ES",
+        "end_area": "RE",
+        "nb_trips": 1987,
+        "avg_risk_score": 90.3809763462506291
+      },
+      {
+        "start_area": "ES",
+        "end_area": "RG",
+        "nb_trips": 490,
+        "avg_risk_score": 76.4244897959183673
+      },
+      {
+        "start_area": "ES",
+        "end_area": "VI",
+        "nb_trips": 15,
+        "avg_risk_score": 85.4666666666666667
+      },
+      {
+        "start_area": "ES",
+        "end_area": "WI",
+        "nb_trips": 99,
+        "avg_risk_score": 79.6666666666666667
+      },
+      {
+        "start_area": "GR",
+        "end_area": "CA",
+        "nb_trips": 389,
+        "avg_risk_score": 90.4961439588688946
+      },
+      {
+        "start_area": "GR",
+        "end_area": "CL",
+        "nb_trips": 18,
+        "avg_risk_score": 74.2222222222222222
+      },
+      {
+        "start_area": "GR",
+        "end_area": "DI",
+        "nb_trips": 389,
+        "avg_risk_score": 81.3033419023136247
+      },
+      {
+        "start_area": "GR",
+        "end_area": "EC",
+        "nb_trips": 1227,
+        "avg_risk_score": 81.4384678076609617
+      },
+      {
+        "start_area": "GR",
+        "end_area": "ES",
+        "nb_trips": 1051,
+        "avg_risk_score": 89.2692673644148430
+      },
+      {
+        "start_area": "GR",
+        "end_area": "GR",
+        "nb_trips": 8000,
+        "avg_risk_score": 89.9798750000000000
+      },
+      {
+        "start_area": "GR",
+        "end_area": "LU",
+        "nb_trips": 6364,
+        "avg_risk_score": 90.8628221244500314
+      },
+      {
+        "start_area": "GR",
+        "end_area": "ME",
+        "nb_trips": 885,
+        "avg_risk_score": 86.5005649717514124
+      },
+      {
+        "start_area": "GR",
+        "end_area": "RE",
+        "nb_trips": 401,
+        "avg_risk_score": 85.9127182044887781
+      },
+      {
+        "start_area": "GR",
+        "end_area": "RG",
+        "nb_trips": 14,
+        "avg_risk_score": 81.0000000000000000
+      },
+      {
+        "start_area": "GR",
+        "end_area": "VI",
+        "nb_trips": 16,
+        "avg_risk_score": 69.1250000000000000
+      },
+      {
+        "start_area": "GR",
+        "end_area": "WI",
+        "nb_trips": 13,
+        "avg_risk_score": 70.4615384615384615
+      },
+      {
+        "start_area": "LU",
+        "end_area": "CA",
+        "nb_trips": 13394,
+        "avg_risk_score": 90.1096759743168583
+      },
+      {
+        "start_area": "LU",
+        "end_area": "CL",
+        "nb_trips": 275,
+        "avg_risk_score": 74.0145454545454545
+      },
+      {
+        "start_area": "LU",
+        "end_area": "DI",
+        "nb_trips": 1653,
+        "avg_risk_score": 86.7592256503327284
+      },
+      {
+        "start_area": "LU",
+        "end_area": "EC",
+        "nb_trips": 924,
+        "avg_risk_score": 80.6482683982683983
+      },
+      {
+        "start_area": "LU",
+        "end_area": "ES",
+        "nb_trips": 24484,
+        "avg_risk_score": 90.5916925338996896
+      },
+      {
+        "start_area": "LU",
+        "end_area": "GR",
+        "nb_trips": 6666,
+        "avg_risk_score": 89.8966396639663966
+      },
+      {
+        "start_area": "LU",
+        "end_area": "LU",
+        "nb_trips": 91906,
+        "avg_risk_score": 91.3612386568885601
+      },
+      {
+        "start_area": "LU",
+        "end_area": "ME",
+        "nb_trips": 4772,
+        "avg_risk_score": 85.6556999161777033
+      },
+      {
+        "start_area": "LU",
+        "end_area": "RE",
+        "nb_trips": 5143,
+        "avg_risk_score": 88.5247909780283881
+      },
+      {
+        "start_area": "LU",
+        "end_area": "RG",
+        "nb_trips": 1337,
+        "avg_risk_score": 79.2483171278982797
+      },
+      {
+        "start_area": "LU",
+        "end_area": "VI",
+        "nb_trips": 72,
+        "avg_risk_score": 88.0000000000000000
+      },
+      {
+        "start_area": "LU",
+        "end_area": "WI",
+        "nb_trips": 116,
+        "avg_risk_score": 72.1206896551724138
+      },
+      {
+        "start_area": "ME",
+        "end_area": "CA",
+        "nb_trips": 1612,
+        "avg_risk_score": 90.3573200992555831
+      },
+      {
+        "start_area": "ME",
+        "end_area": "CL",
+        "nb_trips": 372,
+        "avg_risk_score": 82.2392473118279570
+      },
+      {
+        "start_area": "ME",
+        "end_area": "DI",
+        "nb_trips": 3228,
+        "avg_risk_score": 91.1623296158612144
+      },
+      {
+        "start_area": "ME",
+        "end_area": "EC",
+        "nb_trips": 286,
+        "avg_risk_score": 82.9090909090909091
+      },
+      {
+        "start_area": "ME",
+        "end_area": "ES",
+        "nb_trips": 676,
+        "avg_risk_score": 86.2958579881656805
+      },
+      {
+        "start_area": "ME",
+        "end_area": "GR",
+        "nb_trips": 835,
+        "avg_risk_score": 89.3652694610778443
+      },
+      {
+        "start_area": "ME",
+        "end_area": "LU",
+        "nb_trips": 4895,
+        "avg_risk_score": 88.7634320735444331
+      },
+      {
+        "start_area": "ME",
+        "end_area": "ME",
+        "nb_trips": 10673,
+        "avg_risk_score": 92.3954839314157219
+      },
+      {
+        "start_area": "ME",
+        "end_area": "RE",
+        "nb_trips": 53,
+        "avg_risk_score": 82.5471698113207547
+      },
+      {
+        "start_area": "ME",
+        "end_area": "RG",
+        "nb_trips": 1174,
+        "avg_risk_score": 88.9420783645655877
+      },
+      {
+        "start_area": "ME",
+        "end_area": "VI",
+        "nb_trips": 110,
+        "avg_risk_score": 74.1818181818181818
+      },
+      {
+        "start_area": "ME",
+        "end_area": "WI",
+        "nb_trips": 152,
+        "avg_risk_score": 76.1710526315789474
+      },
+      {
+        "start_area": "RE",
+        "end_area": "CA",
+        "nb_trips": 251,
+        "avg_risk_score": 80.7729083665338645
+      },
+      {
+        "start_area": "RE",
+        "end_area": "DI",
+        "nb_trips": 55,
+        "avg_risk_score": 74.7818181818181818
+      },
+      {
+        "start_area": "RE",
+        "end_area": "EC",
+        "nb_trips": 40,
+        "avg_risk_score": 75.6750000000000000
+      },
+      {
+        "start_area": "RE",
+        "end_area": "ES",
+        "nb_trips": 1962,
+        "avg_risk_score": 91.3735983690112130
+      },
+      {
+        "start_area": "RE",
+        "end_area": "GR",
+        "nb_trips": 412,
+        "avg_risk_score": 83.7572815533980583
+      },
+      {
+        "start_area": "RE",
+        "end_area": "LU",
+        "nb_trips": 5317,
+        "avg_risk_score": 85.1333458717321798
+      },
+      {
+        "start_area": "RE",
+        "end_area": "ME",
+        "nb_trips": 52,
+        "avg_risk_score": 78.0192307692307692
+      },
+      {
+        "start_area": "RE",
+        "end_area": "RE",
+        "nb_trips": 6803,
+        "avg_risk_score": 92.7961193591062766
+      },
+      {
+        "start_area": "RE",
+        "end_area": "RG",
+        "nb_trips": 42,
+        "avg_risk_score": 79.3809523809523810
+      },
+      {
+        "start_area": "RG",
+        "end_area": "CA",
+        "nb_trips": 857,
+        "avg_risk_score": 90.3640606767794632
+      },
+      {
+        "start_area": "RG",
+        "end_area": "CL",
+        "nb_trips": 453,
+        "avg_risk_score": 75.3090507726269316
+      },
+      {
+        "start_area": "RG",
+        "end_area": "DI",
+        "nb_trips": 1137,
+        "avg_risk_score": 87.4467897977132806
+      },
+      {
+        "start_area": "RG",
+        "end_area": "EC",
+        "nb_trips": 20,
+        "avg_risk_score": 82.3000000000000000
+      },
+      {
+        "start_area": "RG",
+        "end_area": "ES",
+        "nb_trips": 514,
+        "avg_risk_score": 85.2704280155642023
+      },
+      {
+        "start_area": "RG",
+        "end_area": "GR",
+        "nb_trips": 15,
+        "avg_risk_score": 79.0000000000000000
+      },
+      {
+        "start_area": "RG",
+        "end_area": "LU",
+        "nb_trips": 1610,
+        "avg_risk_score": 80.4993788819875776
+      },
+      {
+        "start_area": "RG",
+        "end_area": "ME",
+        "nb_trips": 972,
+        "avg_risk_score": 87.9557613168724280
+      },
+      {
+        "start_area": "RG",
+        "end_area": "RE",
+        "nb_trips": 27,
+        "avg_risk_score": 81.2222222222222222
+      },
+      {
+        "start_area": "RG",
+        "end_area": "RG",
+        "nb_trips": 5562,
+        "avg_risk_score": 92.0690399137001079
+      },
+      {
+        "start_area": "RG",
+        "end_area": "WI",
+        "nb_trips": 525,
+        "avg_risk_score": 86.1504761904761905
+      },
+      {
+        "start_area": "VI",
+        "end_area": "CA",
+        "nb_trips": 17,
+        "avg_risk_score": 94.5294117647058824
+      },
+      {
+        "start_area": "VI",
+        "end_area": "CL",
+        "nb_trips": 68,
+        "avg_risk_score": 82.4264705882352941
+      },
+      {
+        "start_area": "VI",
+        "end_area": "DI",
+        "nb_trips": 390,
+        "avg_risk_score": 88.3384615384615385
+      },
+      {
+        "start_area": "VI",
+        "end_area": "EC",
+        "nb_trips": 17,
+        "avg_risk_score": 76.7058823529411765
+      },
+      {
+        "start_area": "VI",
+        "end_area": "ES",
+        "nb_trips": 14,
+        "avg_risk_score": 84.5714285714285714
+      },
+      {
+        "start_area": "VI",
+        "end_area": "GR",
+        "nb_trips": 24,
+        "avg_risk_score": 80.9583333333333333
+      },
+      {
+        "start_area": "VI",
+        "end_area": "LU",
+        "nb_trips": 82,
+        "avg_risk_score": 92.4878048780487805
+      },
+      {
+        "start_area": "VI",
+        "end_area": "ME",
+        "nb_trips": 106,
+        "avg_risk_score": 82.1037735849056604
+      },
+      {
+        "start_area": "VI",
+        "end_area": "RG",
+        "nb_trips": 13,
+        "avg_risk_score": 95.4615384615384615
+      },
+      {
+        "start_area": "VI",
+        "end_area": "VI",
+        "nb_trips": 252,
+        "avg_risk_score": 86.5238095238095238
+      },
+      {
+        "start_area": "VI",
+        "end_area": "WI",
+        "nb_trips": 11,
+        "avg_risk_score": 73.1818181818181818
+      },
+      {
+        "start_area": "WI",
+        "end_area": "CA",
+        "nb_trips": 84,
+        "avg_risk_score": 77.8928571428571429
+      },
+      {
+        "start_area": "WI",
+        "end_area": "CL",
+        "nb_trips": 370,
+        "avg_risk_score": 73.4675675675675676
+      },
+      {
+        "start_area": "WI",
+        "end_area": "DI",
+        "nb_trips": 497,
+        "avg_risk_score": 82.3601609657947686
+      },
+      {
+        "start_area": "WI",
+        "end_area": "EC",
+        "nb_trips": 24,
+        "avg_risk_score": 63.4583333333333333
+      },
+      {
+        "start_area": "WI",
+        "end_area": "ES",
+        "nb_trips": 88,
+        "avg_risk_score": 80.5113636363636364
+      },
+      {
+        "start_area": "WI",
+        "end_area": "GR",
+        "nb_trips": 11,
+        "avg_risk_score": 82.8181818181818182
+      },
+      {
+        "start_area": "WI",
+        "end_area": "LU",
+        "nb_trips": 125,
+        "avg_risk_score": 79.3360000000000000
+      },
+      {
+        "start_area": "WI",
+        "end_area": "ME",
+        "nb_trips": 140,
+        "avg_risk_score": 84.9428571428571429
+      },
+      {
+        "start_area": "WI",
+        "end_area": "RG",
+        "nb_trips": 496,
+        "avg_risk_score": 87.0907258064516129
+      },
+      {
+        "start_area": "WI",
+        "end_area": "WI",
+        "nb_trips": 1769,
+        "avg_risk_score": 86.4143583945732052
+      }
+    ]
+  }
+}

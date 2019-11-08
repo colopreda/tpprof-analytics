@@ -1,0 +1,24 @@
+{
+  "trip-list": {
+    "data": [
+      {
+        "trip_id": "t-ext-140d48ec72db4393a441d170016de917",
+        "total_distance": 8.25,
+        "avg_speed": 24.43,
+        "url": "<a href='/trip?trip_id=t-ext-140d48ec72db4393a441d170016de917'>Link</a>"
+      },
+      {
+        "trip_id": "t-ext-29f7704c0e4a43ccaf6033e4b66921c5",
+        "total_distance": 142.52,
+        "avg_speed": 46.65,
+        "url": "<a href='/trip?trip_id=t-ext-29f7704c0e4a43ccaf6033e4b66921c5'>Link</a>"
+      },
+      {
+        "trip_id": "t-ext-42d27cabe2974b989c8b9522465509e3",
+        "total_distance": 4.1,
+        "avg_speed": 20.85,
+        "url": "<a href='/trip?trip_id=t-ext-42d27cabe2974b989c8b9522465509e3'>Link</a>"
+      }
+    ]
+  }
+}

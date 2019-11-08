@@ -1,0 +1,38 @@
+{
+  "bar": {
+    "data": [
+      {
+        "display_name": "Aggressive driving",
+        "times": 1466
+      },
+      {
+        "display_name": "Careless or in a hurry",
+        "times": 230
+      },
+      {
+        "display_name": "Distraction in vehicle",
+        "times": 4244
+      },
+      {
+        "display_name": "Failed to look",
+        "times": 2374
+      },
+      {
+        "display_name": "Following too close",
+        "times": 548
+      },
+      {
+        "display_name": "Loss of Control",
+        "times": 2863
+      },
+      {
+        "display_name": "Sudden braking",
+        "times": 733
+      },
+      {
+        "display_name": "Swerved",
+        "times": 1196
+      }
+    ]
+  }
+}

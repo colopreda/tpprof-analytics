@@ -1,0 +1,18 @@
+{
+  "pie-chart": {
+    "data": [
+      {
+        "value": 2.123,
+        "category": "Motorway"
+      },
+      {
+        "value": 0.532,
+        "category": "Rural"
+      },
+      {
+        "value": 8.251,
+        "category": "Urban"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scatter": {
+    "data": [
+      {
+        "canton": "Capellen",
+        "predicted": 0E-16,
+        "real": 0.04634219831216022375
+      },
+      {
+        "canton": "Clervaux",
+        "predicted": 0.62989360437361921875,
+        "real": 0.79649599273281664505
+      },
+      {
+        "canton": "Diekirch",
+        "predicted": 0.15980505140966153122,
+        "real": 0.17648582758934828352
+      },
+      {
+        "canton": "Echternach",
+        "predicted": 0.54348605817081952880,
+        "real": 0.47498203423098439624
+      },
+      {
+        "canton": "Esch-sur-Alzette",
+        "predicted": 0.45879376444592999007,
+        "real": 0.27411211864952464631
+      },
+      {
+        "canton": "Grevenmacher",
+        "predicted": 0.26768890020529425501,
+        "real": 0.23422702946637404025
+      },
+      {
+        "canton": "Luxembourg",
+        "predicted": 0.40049903045079400698,
+        "real": 0.05506935767320032211
+      },
+      {
+        "canton": "Mersch",
+        "predicted": 0.25065492968127791452,
+        "real": 0.01263037462135241483
+      },
+      {
+        "canton": "Redange",
+        "predicted": 0.38405136911808586809,
+        "real": 0E-20
+      },
+      {
+        "canton": "Remich",
+        "predicted": 0.36307978646363386267,
+        "real": 0.14495452497116139196
+      },
+      {
+        "canton": "Vianden",
+        "predicted": 1.00000000000000000000,
+        "real": 0.83390633356253342504
+      },
+      {
+        "canton": "Wiltz",
+        "predicted": 0.81682654542332317564,
+        "real": 1.00000000000000000000
+      }
+    ]
+  }
+}

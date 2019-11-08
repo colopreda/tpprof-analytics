@@ -1,0 +1,18 @@
+{
+  "bar-histogram-filters": {
+    "data": [
+      {
+        "driver_gender": "F",
+        "values": {
+          "value": "[{\"category\":30,\"value\":4},{\"category\": 50,\"value\":11},{\"category\":73,\"value\":7}]"
+        }
+      },
+      {
+        "driver_gender": "M",
+        "values": {
+          "value": "[{\"category\":40,\"value\":5},{\"category\": 62,\"value\":9},{\"category\":81,\"value\":2}]"
+        }
+      }    
+    ]
+  }
+}

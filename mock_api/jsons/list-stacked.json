@@ -1,0 +1,14 @@
+{
+  "list-stacked": {
+    "data": [
+      {
+        "total_distance": 8,
+        "average_speed": 24.43,
+        "duration": 20.27,
+        "locations": 679,
+        "start_time": "2019-05-26 14:23:57",
+        "end_time": "2019-05-26 14:44:13"
+      }
+    ]
+  }
+}

@@ -22,3 +22,5 @@ Los usuario para ingresar son:
 admin:adminuser (usuario con privilegios de administrador)
 user:useruser (usuario con privilegios limitados, o sea, no ve algunos graficos)
 ```
+
+**En la wiki del repositorio se encuentran todos los charts utilizados con su respectiva documentación para la utilización.**

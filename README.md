@@ -1,57 +1,24 @@
-# analytics-v2
+# TP Profesional "Herramienta de Visualización de Datos Telemáticos para Vehículos"
 
-## Project setup
+## Instalar dependencias necesarioas para correr la demo
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Ejecutar todos los servicios necesarios para probar la herramienta
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+bash run_demo.sh
 ```
 
-### Run your tests
+Una vez ejecutado el comando anterior, se puede acceder a la herramienta ingresando a:
+
 ```
-npm run test
+http://localhost:8080
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+Los usuario para ingresar son:
 
-## Creating docker container to deploy
-
-Build the docker image
 ```
-docker build -t [desired-image-name] .
+admin:adminuser (usuario con privilegios de administrador)
+user:useruser (usuario con privilegios limitados, o sea, no ve algunos graficos)
 ```
-Tag the actual release
-```
-docker tag [desired-image-name] backup.motion-s.com/[name-seen-in-portainer]:[version]
-```
-Push the docker image to the storage
-```
-docker push backup.motion-s.com/[name-seen-in-portainer]:[version]
-```
-
-### Go to docker.motion-s.com
-
-1. Click Containers on the left
-2. Click Add container
-3. Set the name you want to see in the list of containers
-4. In the field "Image" put ```[name-seen-in-portainer]:[version]```
-5. Select the registry "backup.motion-s.com"
-6. In Advanced container settings, go to ENV and set the following variables
-```$xslt
-PORT=Port exposed
-TOKEN=Token for the api calls from analytics 
-```
-7. In Ports configuration -> Port mapping, put in "container" the port that you put in the ENV and in host the port that is going to be visible
-8. Hit "Deploy container"
-
